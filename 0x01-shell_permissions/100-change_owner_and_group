@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincent stuff
+100-change_owner_and_group
